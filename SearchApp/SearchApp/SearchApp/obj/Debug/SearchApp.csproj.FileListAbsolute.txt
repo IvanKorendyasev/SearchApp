@@ -1,0 +1,10 @@
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\bin\Debug\SearchApp.exe.config
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\bin\Debug\SearchApp.exe
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\bin\Debug\SearchApp.pdb
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.csprojAssemblyReference.cache
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.Form1.resources
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.Properties.Resources.resources
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.GenerateResource.cache
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.CoreCompileInputs.cache
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.exe
+F:\Ваня\GIT\SearchApp\SearchApp\SearchApp\obj\Debug\SearchApp.pdb
